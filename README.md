@@ -3,7 +3,7 @@
 ## Example
 
 ```javascript
-const MHZ19 = require("./index");
+const MHZ19 = require("mhz19-node");
 
 const sensor = new MHZ19({ port: "COM4", baudrate: 9600 });
 
