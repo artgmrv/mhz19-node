@@ -1,6 +1,6 @@
 {
   "name": "mhz19-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy data retrieval from mhz-19",
   "main": "index.js",
   "repository": {
