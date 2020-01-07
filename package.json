@@ -1,0 +1,21 @@
+{
+  "name": "mhz19-node",
+  "version": "0.0.1",
+  "description": "Easy data retrieval from mhz-19",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artgmrv/mhz19-node"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/artgmrv/mhz19-node/issues"
+  },
+  "author": "artgmrv",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^8.0.6"
+  }
+}
